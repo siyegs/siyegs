@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Success 👋</h1>
 
-<!--
-**siyegs/siyegs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Full-stack engineer</b> · I build software and applications that help businesses scale.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://iyegeresk.web.app/">🌐 Portfolio</a> ·
+  <a href="https://linkedin.com/in/success-iyegere-063457250">💼 LinkedIn</a> ·
+  <a href="https://x.com/IyegereS">𝕏 Twitter</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About me
+
+- 🔭 Building **Mystra** with [@MystraHQ](https://github.com/MystraHQ) - a mobile-first platform for creators and businesses
+- 🛠️ Also shipping with [@FluxDevsTeam](https://github.com/FluxDevsTeam)
+- 🌱 Deep in **React Native + Expo**, **NestJS**, and **TypeScript** end to end
+- 🌍 Based in Nigeria
+- 💬 Ask me about mobile apps, backend APIs, and taking a product from idea to store
+
+### 🧰 Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siyegs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyegs&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siyegs&theme=tokyonight&hide_border=true" />
+</p>
