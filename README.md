@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 About me
+### About me
 
 - Building **Mystra** with [@MystraHQ](https://github.com/MystraHQ) - a mobile-first platform for creators and businesses
 - Also shipping with [@FluxDevsTeam](https://github.com/FluxDevsTeam)
@@ -20,7 +20,7 @@
 - Based in Nigeria
 - Ask me about mobile apps, backend APIs, and taking a product from idea to store
 
-### 🧰 Tech Stack
+### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -33,7 +33,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 
-### 📊 GitHub stats
+### GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=siyegs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
