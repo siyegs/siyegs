@@ -16,9 +16,6 @@
 
 - Building **Mystra** with [@MystraHQ](https://github.com/MystraHQ) - a mobile-first platform for creators and businesses
 - Also shipping with [@FluxDevsTeam](https://github.com/FluxDevsTeam)
-- Deep in **React Native + Expo**, **NestJS**, and **TypeScript** end to end
-- Based in Nigeria
-- Ask me about mobile apps, backend APIs, and taking a product from idea to store
 
 ### Tech Stack
 
