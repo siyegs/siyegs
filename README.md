@@ -8,5 +8,5 @@
 
 ### About me
 
-- Building **Mystra** with [@MystraHQ](https://github.com/MystraHQ) - a mobile-first platform for creators and businesses
 - Also shipping with [@FluxDevsTeam](https://github.com/FluxDevsTeam)
+- Built **Mystra** with [@MystraHQ](https://github.com/MystraHQ) - a mobile-first platform for creators and businesses
